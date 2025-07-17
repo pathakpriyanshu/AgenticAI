@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/AI-Agentic-red.svg" alt="Agentic AI">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status">
 </div>
@@ -122,7 +121,7 @@ python main.py
 "Compare the batting average of Tesla vs Ford stock performance"
 
 
-
+```
 ## 📁 Repository Structure
 
 ```
