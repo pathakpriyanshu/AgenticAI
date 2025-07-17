@@ -194,11 +194,10 @@ We welcome contributions! Here's how you can help:
 ---
 
 
-## 🌟 Star History
 
 <div align="center">
   <p>If you find this repo useful, please give it a ⭐ on GitHub!</p>
-  <img src="https://img.shields.io/github/stars/yourusername/AgenticAI?style=social" alt="GitHub stars">
+   alt="GitHub stars">
 </div>
 
 ---
