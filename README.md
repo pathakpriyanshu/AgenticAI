@@ -14,9 +14,9 @@
 
 ---
 
-## 🌟 What is AgenticAI?
+## 🌟 Why this Repo?
 
-AgenticAI is a **revolutionary financial intelligence system** that harnesses the power of **Agentic AI** - artificial intelligence that can make decisions, plan multi-step workflows, and take autonomous actions to achieve complex goals. Unlike traditional AI that simply responds to prompts, AgenticAI **thinks ahead, reasons through problems, and executes sophisticated financial analysis workflows** with minimal human intervention.
+This is a **revolutionary financial intelligence system** that harnesses the power of **Agentic AI** - artificial intelligence that can make decisions, plan multi-step workflows, and take autonomous actions to achieve complex goals. Unlike traditional AI that simply responds to prompts, AgenticAI **thinks ahead, reasons through problems, and executes sophisticated financial analysis workflows** with minimal human intervention.
 
 ### 🎯 The Power of Agentic AI
 
@@ -65,35 +65,8 @@ Our sophisticated routing system automatically directs your questions to the mos
 - **Capabilities**:
   - **Sharpe Ratio**: Risk-adjusted return analysis
   - **Batting Average**: Investment success rate measurement
-  - **Technical Indicators**: Moving averages, RSI, MACD
   - **Fundamental Analysis**: P/E ratios, ROE, debt-to-equity
-  - **Portfolio Optimization**: Risk assessment and diversification metrics
 
----
-
-## 🎯 Key Financial Metrics We Calculate
-
-### 📊 **Sharpe Ratio**
-- **What it is**: Measures risk-adjusted returns of an investment
-- **Formula**: `(Portfolio Return - Risk-free Rate) / Standard Deviation`
-- **Interpretation**: 
-  - > 1.0: Acceptable performance
-  - > 2.0: Very good performance  
-  - > 3.0: Excellent performance
-
-### 🎯 **Batting Average**
-- **What it is**: Measures how often an investment outperforms a benchmark
-- **Formula**: `(Successful Periods / Total Periods) × 100`
-- **Interpretation**: Shows consistency of outperformance over time
-
-### 📈 **And Many More...**
-- Beta coefficient for market correlation
-- Alpha for excess returns
-- Maximum drawdown analysis
-- Volatility measurements
-- Return attribution analysis
-
----
 
 ## 🛠️ Installation & Setup
 
@@ -104,7 +77,7 @@ Our sophisticated routing system automatically directs your questions to the mos
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AgenticAI.git
+git clone https://github.com/pathakpriyanshu/AgenticAI.git
 cd AgenticAI
 
 # Install dependencies
@@ -147,18 +120,8 @@ python main.py
 
 # Complex analysis
 "Compare the batting average of Tesla vs Ford stock performance"
-```
 
-### Advanced Workflows
-```python
-# Multi-step analysis
-"Analyze Amazon's financial performance using both the annual report and current market data, then calculate risk metrics"
 
-# Portfolio optimization
-"Given these 5 stocks, calculate their Sharpe ratios and suggest optimal portfolio weights"
-```
-
----
 
 ## 📁 Repository Structure
 
@@ -184,7 +147,7 @@ AgenticAI/
 
 ---
 
-## 🎨 Why Choose AgenticAI?
+## 🎨 Why Choose our Repo?
 
 ### 🌟 **Next-Generation AI Technology**
 - **Autonomous Operation**: Works independently without constant prompting
@@ -210,21 +173,8 @@ AgenticAI/
 
 - 🔐 **API Keys**: Stored securely in environment variables
 - 🗄️ **Local Storage**: Your documents stay on your system
-- 🔒 **No Data Sharing**: We don't store or share your financial data
 - 🛡️ **Secure Connections**: All API calls use HTTPS encryption
 
----
-
-## 📈 Performance Metrics
-
-Our AI agents are designed for optimal performance:
-
-- **Query Response Time**: < 2 seconds average
-- **Accuracy Rate**: 95%+ for financial calculations
-- **Uptime**: 99.9% availability
-- **Document Processing**: Handles PDFs up to 100MB
-
----
 
 ## 🤝 Contributing
 
@@ -236,69 +186,20 @@ We welcome contributions! Here's how you can help:
 4. **Push to the branch**: `git push origin feature/amazing-feature`
 5. **Open a Pull Request**
 
-### Development Guidelines
-- Follow PEP 8 style guide
-- Add tests for new features
-- Update documentation
-- Ensure backward compatibility
-
 ---
 
-## 📊 Roadmap
-
-### 🎯 **Coming Soon**
-- [ ] Real-time portfolio tracking
-- [ ] Advanced charting and visualizations
-- [ ] Multi-language support
-- [ ] Mobile app version
-- [ ] Cryptocurrency analysis
-- [ ] Options trading metrics
 
 ### 🔮 **Future Vision**
-- [ ] Predictive analytics using machine learning
-- [ ] Automated trading recommendations
-- [ ] ESG (Environmental, Social, Governance) scoring
-- [ ] Global market analysis
-- [ ] Integration with major trading platforms
+- [ ] Addition of Markowitz Optimization for investment Analysis.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙋‍♂️ Support
-
-- **Documentation**: [Wiki](https://github.com/yourusername/AgenticAI/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/AgenticAI/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/AgenticAI/discussions)
-- **Email**: support@agenticai.com
-
----
 
 ## 🌟 Star History
 
 <div align="center">
-  <p>If you find AgenticAI useful, please give it a ⭐ on GitHub!</p>
+  <p>If you find this repo useful, please give it a ⭐ on GitHub!</p>
   <img src="https://img.shields.io/github/stars/yourusername/AgenticAI?style=social" alt="GitHub stars">
 </div>
 
 ---
-
-<div align="center">
-  <h3>🚀 Ready to Experience the Future of Financial AI?</h3>
-  <p><strong>Get started with AgenticAI today and revolutionize your financial analysis!</strong></p>
-  
-  <p>
-    <a href="#installation--setup">📥 Get Started</a> •
-    <a href="#usage-examples">📖 Examples</a> •
-    <a href="#contributing">🤝 Contribute</a> •
-    <a href="#support">💬 Support</a>
-  </p>
-</div>
-
----
-
-*Built with ❤️ by the AgenticAI Team | Powered by the latest in Agentic AI technology*
