@@ -197,7 +197,7 @@ We welcome contributions! Here's how you can help:
 
 <div align="center">
   <p>If you find this repo useful, please give it a ⭐ on GitHub!</p>
-   alt="GitHub stars">
+   
 </div>
 
 ---
